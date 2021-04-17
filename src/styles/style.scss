@@ -1,0 +1,14 @@
+@import './variables.scss';
+
+* {
+  background: $background-color;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: $primary-color;
+
+  h1 {
+    text-align: center;
+  }
+}
