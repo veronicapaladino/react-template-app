@@ -1,9 +1,6 @@
 # Setup para React App
 
-Template para crear una app con react
-[x] Sass
-[x] Webpack
-[x] Babel
+Template para crear una app con react, Sass, Webpack, Babel
 
 ## Quick start
 
