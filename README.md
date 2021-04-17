@@ -1,8 +1,8 @@
 # Setup para React App
 
-Template para crear una app con react, Sass, Webpack, Babel
+Template para crear una app con React, Sass, Webpack, Babel
 
-## Quick start
+## Start
 
 ```
 # Install dependencies
@@ -11,5 +11,5 @@ npm install
 # Run Server
 npm run dev-server
 
-# Server run on http://localhost:8080/
+# http://localhost:8080/
 ```
