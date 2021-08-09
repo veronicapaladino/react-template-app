@@ -1,6 +1,6 @@
 # Setup para React App
 
-Template para crear una app con React, Sass, Webpack, Babel. Tiene como objetivo partir desde aca para crear proyectos con React.
+Template para crear una app con React, Sass, Webpack, Babel. Tiene como objetivo usar este proyecto como template para crear proyectos con React.
 
 Configuración con webpack 5 y Babel 7. Eslint(WIP) , cypress(WIP)
 
