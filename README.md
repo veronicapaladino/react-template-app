@@ -2,7 +2,7 @@
 
 Template para crear una app con React, Sass, Webpack, Babel. Tiene como objetivo usar este proyecto como template para crear proyectos con React.
 
-Configuración con webpack 5 y Babel 7. Eslint(WIP) , cypress(WIP)
+Configuración con webpack 5 y Babel 7. Eslint(WIP) , cypress(TODO)
 
 ## Start
 
